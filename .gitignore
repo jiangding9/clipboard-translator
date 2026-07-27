@@ -1,0 +1,11 @@
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
